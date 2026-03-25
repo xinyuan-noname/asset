@@ -1,5 +1,6 @@
 {
     "apk": "1.0.0.apk",
+    "setup": "1.0.0.exe",
     "version": "1.0.0",
     "forceUpdate": true
 }
