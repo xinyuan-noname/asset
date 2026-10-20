@@ -1,7 +1,7 @@
 {
-    "apk": "2.0.0.1.apk",
+    "apk": "2.1.0.2.apk",
     "setup": "1.0.0.exe",
-    "version": "1.0.0",
+    "version": "2.1.0",
     "forceUpdate": false,
     "info":"我们的APP升级了，请及时更新！"
 }
